@@ -1,0 +1,21 @@
+2484 pure-D headers, rings [(6, 1), (7, 1), (8, 5), (9, 15), (10, 58), (11, 178), (12, 441), (13, 686), (14, 660), (15, 348), (16, 91)]
+131 directed entries, maximum source low 8 upper 8
+zero ring-distinguished abstract or embedded duplicates; 5 ambiguous pairs checked
+degree-12 outlet column offsets [-2, -1, 0, 1, 2] interior image offsets [-2, -1, 0, 1, 2] witness records 9
+All spoke-relative supports lie strictly away from the opposite cut between offsets 5 and -6. No interior image contains the hub.
+p5 EXIT=0
+p12 EXIT=0
+p6 EXIT=0
+p11 EXIT=0
+p10 EXIT=0
+p9 EXIT=0
+p8 EXIT=0
+p7 EXIT=0
+reduce5 EXIT=0
+reduce4 EXIT=0
+reduce0 EXIT=0
+reduce7 EXIT=0
+reduce3 EXIT=0
+reduce6 EXIT=0
+reduce1 EXIT=0
+reduce2 EXIT=0

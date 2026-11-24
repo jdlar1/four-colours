@@ -1,0 +1,20 @@
+# Python / environments
+.venv/
+.uvcache/
+__pycache__/
+*.pyc
+*.pyo
+
+# Lean 4 build cache
+four-colours/lean_theorem62/.lake/
+
+# Compiled C/C++ binaries and generated verifier intermediates
+*.o
+*.bin
+outlet.et
+stock-replay.*/
+four-colours/sota_d/discharge
+four-colours/sota_d/reduce
+four-colours/sota_d/reduce16.c
+four-colours/sota_d/lift
+four-colours/sota_d/lift.c

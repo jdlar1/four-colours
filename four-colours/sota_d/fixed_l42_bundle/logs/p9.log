@@ -1,0 +1,7 @@
+Verifying /home/jdlar/.t3/projects/maths/four-colours/sota_d/broader/p9 with configuration file /home/jdlar/.t3/projects/maths/four-colours/sota_d/broader/unavoidable.conf and rule file /home/jdlar/.t3/projects/maths/four-colours/sota_d/broader/rules
+Reading rules from file `/home/jdlar/.t3/projects/maths/four-colours/sota_d/broader/rules'.
+Total of 87 rules resulted in 65 outlets of degree 9.
+Outlets written into file `outlet.et'.
+Reading unavoidable set from file `/home/jdlar/.t3/projects/maths/four-colours/sota_d/broader/unavoidable.conf'.
+Total of 2636 configurations.
+/home/jdlar/.t3/projects/maths/four-colours/sota_d/broader/p9 verified.

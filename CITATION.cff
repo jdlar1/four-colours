@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these verification bundles, Lean 4 proofs, or analytical results, please cite this repository."
+title: "Four-Colour Theorem: Kempe-Span Theory & Reduced Unavoidable Sets"
+authors:
+  - family-names: "De la Rosa"
+    given-names: "Juan"
+    alias: "jdlar1"
+repository-code: "https://github.com/jdlar1/four-colours"
+license: MIT
+date-released: "2026-11-24"
+keywords:
+  - four-color theorem
+  - graph theory
+  - Kempe chains
+  - Birkhoff-Lewis equations
+  - Lean 4
+  - discharging method

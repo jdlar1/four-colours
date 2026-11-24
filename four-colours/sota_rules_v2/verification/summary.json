@@ -1,0 +1,166 @@
+{
+  "count": 604,
+  "embedded_distinct": 604,
+  "abstract_distinct": 604,
+  "ambiguous_abstract_pairs": 1,
+  "D": 284,
+  "C": 320,
+  "ring": {
+    "6": [
+      1,
+      0
+    ],
+    "7": [
+      1,
+      0
+    ],
+    "8": [
+      4,
+      1
+    ],
+    "9": [
+      7,
+      1
+    ],
+    "10": [
+      20,
+      10
+    ],
+    "11": [
+      46,
+      36
+    ],
+    "12": [
+      100,
+      73
+    ],
+    "13": [
+      63,
+      121
+    ],
+    "14": [
+      42,
+      78
+    ]
+  },
+  "maximum_interior_degree": 11,
+  "rule_entries": 73,
+  "explicit_inversions": 35,
+  "sha256": {
+    "reduce.c": "f49caf1bffe3721f2c45c9fadcf13f45f058a4c744d858ed35d6c2bf6872ec77",
+    "discharge.c": "b2e16d710b66b54ef193615f3901636c8361a820b01e2ef7e37d4331318aba19",
+    "rules": "b2ecd4aa282bd6f6b84e063820e05c3d308c9ff3c004cfe3a821f730a3eb9809",
+    "unavoidable.conf": "340c8cf6cc135bc9d9583353ccb3e142da603da084f5b557658164c9b2f0f1f2",
+    "present5": "f19d9b1fbb7898f3779a18df9a3900b68f0fe8bd3a38599bb5b8367548837a8b",
+    "present6": "b822e92c8456c00051cbf51778d82b76e38905a1a4f6349d2bce24ad4f0b8d20",
+    "present7": "1b0646c9d08f11c308b48b494474266bae099b5200f2e881c931ffc197d5be35",
+    "present8": "4e7b59849fe98cb1e2514f39315943c8ef68f41655fbe45655810862672fc54b",
+    "present9": "f9ddd6caa267592b21c3f635120141d9205ac39e14a327adbe704123aa4c7c43",
+    "present10": "3b2f3dbe737aff551cc1f7fdfdfdbf1d9f85e5c1cd765a4e6bc9bae05b72c5bb",
+    "present11": "f5bdc30a2d373887b0de60e0812e40a3a6d5d0516b4e1584c486e2579940c566",
+    "present12": "0a68851d2c75fbea24fa16ea3c349b23ecbf2a9eace8c548208159a46a91ed98"
+  },
+  "runs": {
+    "present5": {
+      "exit": 0,
+      "last_line": "present5 verified."
+    },
+    "present6": {
+      "exit": 0,
+      "last_line": "present6 verified."
+    },
+    "present7": {
+      "exit": 0,
+      "last_line": "present7 verified."
+    },
+    "present8": {
+      "exit": 0,
+      "last_line": "present8 verified."
+    },
+    "present9": {
+      "exit": 0,
+      "last_line": "present9 verified."
+    },
+    "present10": {
+      "exit": 0,
+      "last_line": "present10 verified."
+    },
+    "present11": {
+      "exit": 0,
+      "last_line": "present11 verified."
+    },
+    "present12": {
+      "exit": 0,
+      "last_line": "present12 verified."
+    },
+    "unavoidable.conf": {
+      "exit": 0,
+      "last_line": "Reducibility of 604 configurations verified"
+    }
+  },
+  "outlets": {
+    "5": 10,
+    "6": 28,
+    "7": 107,
+    "8": 72,
+    "9": 57,
+    "10": 57,
+    "11": 57,
+    "12": 57
+  },
+  "degree12_spoke_offsets": [
+    -2,
+    -1,
+    0,
+    1,
+    2
+  ],
+  "degree12_stock_trace": {
+    "reductions_by_edge": {
+      "1": 5,
+      "2": 5,
+      "3": 5,
+      "4": 5,
+      "5": 5,
+      "6": 5,
+      "7": 5,
+      "8": 5,
+      "9": 5,
+      "10": 5,
+      "11": 5,
+      "12": 5
+    },
+    "interior_offsets": [
+      -2,
+      -1,
+      0,
+      1
+    ],
+    "all_nonhub_image_offsets": [
+      -2,
+      -1,
+      0,
+      1
+    ],
+    "recursive_upper_bound_decreases": 0
+  },
+  "maximum_ring": 14,
+  "maximum_source_upper_degree": 8,
+  "maximum_outlet_count": 107,
+  "unpaired_stock_entries": [
+    21,
+    63
+  ],
+  "intrinsically_symmetric_entries": [
+    21,
+    26,
+    63
+  ],
+  "ring_count_order": [
+    "D",
+    "C"
+  ],
+  "degree12_single_edge_bound_tenths": 5,
+  "degree12_single_edge_obligations": 12,
+  "degree12_positive_outlets_only": true
+}

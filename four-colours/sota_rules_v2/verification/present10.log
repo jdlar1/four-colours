@@ -1,0 +1,7 @@
+Verifying present10
+Reading rules from file `rules'.
+Total of 73 rules resulted in 57 outlets of degree 10.
+Outlets written into file `outlet.et'.
+Reading unavoidable set from file `unavoidable.conf'.
+Total of 604 configurations.
+present10 verified.

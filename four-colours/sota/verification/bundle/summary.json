@@ -1,0 +1,100 @@
+{
+  "count": 633,
+  "distinct": 633,
+  "D": 294,
+  "C": 339,
+  "ring": {
+    "6": [
+      1,
+      0
+    ],
+    "7": [
+      1,
+      0
+    ],
+    "8": [
+      4,
+      1
+    ],
+    "9": [
+      7,
+      1
+    ],
+    "10": [
+      21,
+      10
+    ],
+    "11": [
+      46,
+      36
+    ],
+    "12": [
+      104,
+      77
+    ],
+    "13": [
+      69,
+      125
+    ],
+    "14": [
+      41,
+      89
+    ]
+  },
+  "contract_sizes": {
+    "0": 294,
+    "1": 232,
+    "2": 13,
+    "3": 57,
+    "4": 37
+  },
+  "sha256": {
+    "rules": "4a511a1df9392a7af6253bfcf4dab9bf96ea9a080465abd0b12b57788a6c3dee",
+    "discharge.c": "b2e16d710b66b54ef193615f3901636c8361a820b01e2ef7e37d4331318aba19",
+    "reduce.c": "f49caf1bffe3721f2c45c9fadcf13f45f058a4c744d858ed35d6c2bf6872ec77"
+  },
+  "preserved_high_degree_lemma_indices": [
+    1,
+    3,
+    6,
+    9,
+    24,
+    26,
+    139,
+    324
+  ],
+  "runs": {
+    "reduce unavoidable.conf": {
+      "exit": 0,
+      "last_line": "Reducibility of 633 configurations verified"
+    },
+    "discharge present5": {
+      "exit": 0,
+      "last_line": "present5 verified."
+    },
+    "discharge present6": {
+      "exit": 0,
+      "last_line": "present6 verified."
+    },
+    "discharge present7": {
+      "exit": 0,
+      "last_line": "present7 verified."
+    },
+    "discharge present8": {
+      "exit": 0,
+      "last_line": "present8 verified."
+    },
+    "discharge present9": {
+      "exit": 0,
+      "last_line": "present9 verified."
+    },
+    "discharge present10": {
+      "exit": 0,
+      "last_line": "present10 verified."
+    },
+    "discharge present11": {
+      "exit": 0,
+      "last_line": "present11 verified."
+    }
+  }
+}

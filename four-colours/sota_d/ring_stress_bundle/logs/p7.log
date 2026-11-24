@@ -1,0 +1,7 @@
+Verifying /home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/p7 with configuration file /home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/unavoidable.conf and rule file /home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/rules
+Reading rules from file `/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/rules'.
+Total of 131 rules resulted in 213 outlets of degree 7.
+Outlets written into file `outlet.et'.
+Reading unavoidable set from file `/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/unavoidable.conf'.
+Total of 2826 configurations.
+/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/p7 verified.

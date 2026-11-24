@@ -1,0 +1,7 @@
+Verifying present8
+Reading rules from file `rules'.
+Total of 73 rules resulted in 72 outlets of degree 8.
+Outlets written into file `outlet.et'.
+Reading unavoidable set from file `unavoidable.conf'.
+Total of 604 configurations.
+present8 verified.

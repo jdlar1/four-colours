@@ -1,0 +1,7 @@
+Verifying ../../p10 with configuration file ../../unavoidable.conf and rule file ../../rules
+Reading rules from file `../../rules'.
+Total of 131 rules resulted in 65 outlets of degree 10.
+Outlets written into file `outlet.et'.
+Reading unavoidable set from file `../../unavoidable.conf'.
+Total of 2484 configurations.
+../../p10 verified.

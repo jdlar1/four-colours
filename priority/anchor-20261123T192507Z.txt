@@ -1,0 +1,3 @@
+fecha_utc=20261123T192507Z
+commit=2dbb8abf9793e7ea70c5d0c2a00e52132a69aded
+manifest_sha256=8eeb48da4d85fdae8676f90c0fb5db105a68095642b88042cbcec50beae3487c

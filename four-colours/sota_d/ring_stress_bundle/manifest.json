@@ -1,0 +1,43 @@
+{
+  "size": 2826,
+  "rings": {
+    "6": 1,
+    "7": 1,
+    "8": 5,
+    "9": 15,
+    "10": 58,
+    "11": 184,
+    "12": 476,
+    "13": 754,
+    "14": 774,
+    "15": 483,
+    "16": 75
+  },
+  "sha256": {
+    "unavoidable.conf": "bccdb16f75f884f832d3bf37e7c56fee2dfe2a0a5cdde490f2a34d6aab5ec4be",
+    "rules": "04c42ca2470f7e6b69d04399a4b92c572c6109dba49d5f4b72905bca5a461344",
+    "p5": "cdfbb8108caf429e5575351eff60d76c94e7e9ecd05d65042a6d7b83e78a2601",
+    "p6": "ac4f5aa81075797555c052be65789b0b75deb8335ee27134e8e18f6ec5d9600b",
+    "p7": "e269656de3b36c7133a104b99b0f32e0f1a3427581232d2b92a7a4608aa96c7c",
+    "p8": "d3aa86f0d22d9ed6c1b7cecff822ec7f1c07eaaff108afe31d9c78507c621b77",
+    "p9": "d01bdf13f07e8fdd427ef12fc03d09d9f29d9ebf5dd9bbe12f756b6d1dce7783",
+    "p10": "cfea93ebb716d61f2016dd40893516488c41aff4b4db9e799111c32dea6d188a",
+    "p11": "0a571f6f73425a56001bda6cc411c225ae69dd3b880528f6585516c33f45ce32",
+    "p12": "0a68851d2c75fbea24fa16ea3c349b23ecbf2a9eace8c548208159a46a91ed98"
+  },
+  "presentations": {
+    "p5": "/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/p5 verified.",
+    "p6": "/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/p6 verified.",
+    "p7": "/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/p7 verified.",
+    "p8": "/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/p8 verified.",
+    "p9": "/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/p9 verified.",
+    "p10": "/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/p10 verified.",
+    "p11": "/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/p11 verified.",
+    "p12": "/home/jdlar/.t3/projects/maths/four-colours/sota_d/ringfinal/p12 verified."
+  },
+  "reducer_shards": {
+    "0": 942,
+    "1": 942,
+    "2": 942
+  }
+}
