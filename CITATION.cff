@@ -4,10 +4,9 @@ title: "Four-Colour Theorem: Kempe-Span Theory & Reduced Unavoidable Sets"
 authors:
   - family-names: "De la Rosa"
     given-names: "Juan"
-    alias: "jdlar1"
 repository-code: "https://github.com/jdlar1/four-colours"
-license: MIT
-date-released: "2026-11-24"
+license: "MIT"
+date-released: "2026-11-26"
 keywords:
   - four-color theorem
   - graph theory
