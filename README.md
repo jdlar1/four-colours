@@ -2,6 +2,8 @@
 
 # Four-Colour Theorem: Kempe-Span Theory & Reduced Unavoidable Sets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24505647.svg)](https://doi.org/10.5281/zenodo.24505647)
+
 > **Author's note:** I come from an engineering background—I am not a research mathematician. This repository grew out of experimenting with **Gemini 4 Neon** as an orchestrator together with **GPT-6.2 Astra** subagents doing the main heavy computational work (plus proof/Lean 4 and adversarial-review subagents on a single workstation), to see what interesting, genuinely machine-checkable mathematical results could be produced without trusting LLM prose. Every claim below is anchored strictly to external verifiers (the original 1997/2010 C checkers and the Lean 4 kernel).
 
 Verified computational improvements to the classical Four-Colour Theorem unavoidable sets alongside a pure-math characterization of Kempe-chain block spans (partially formalized in Lean 4).
